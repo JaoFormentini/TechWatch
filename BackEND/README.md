@@ -72,6 +72,24 @@ Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/BackEND/src/main/java/com/f
 
 Para a utilizaçao de qualquer método, deverá ser feito o cadastro de usuario e a autenticaçao de login, utilizando os devidos ENDPOINTS.
 
+🎲 Rodando o Front End (servidor)
+
+🖥 Clone ou baixe o repositório.
+
+https://github.com/Choroco/ProjetoJavaPooAPI/FrontEND (Para o FRONTEND)
+
+Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/FrontEND/ e executar o comando. 
+
+```bash
+$ npm install -D vite
+```
+Apos a instalação, basta executar no mesmo diretorio o comando.
+
+```bash
+npm run dev
+```
+Apartir dai, o FrontEND ja irá funcionar, a API vai startar, e utilizar a porta 5173.
+
 
 🌟 Funcionalidades
 
