@@ -58,7 +58,7 @@ Utilizado para aplicar a logica necessaria no FrontEnd. Criaçao e Estilização
 
 🖥 Clone ou baixe o repositório.
 
-https://github.com/Choroco/ProjetoJavaPooAPI/FrontEND (Para o FRONTEND)
+[https://github.com/JaoFormentini/TechWatch.git](https://github.com/JaoFormentini/TechWatch.git) (Para o FRONTEND)
 
 Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/FrontEND/ e executar o comando. 
 
