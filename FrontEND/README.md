@@ -54,24 +54,6 @@ Utilizado para aplicar a logica necessaria no FrontEnd. Criaçao e Estilização
 - Banco de dados(MySQL). 
 - Vite instalado.
 
-🎲 Rodando o Back End (servidor)
-
-Crie o banco de dados no MySql manualmente, (o nome do banco padrao da API é "teste", se houver mudança no nome do banco, deverá alterar o arquivo "application resourses"). Dentro do banco deverá ter 2 tabelas, "computadores" e "users".
-
-computador deverá ter as seguintes colunas respectivamente.
-- id, mac, local_host_name, data_de_instalacao, processador, ram_size, sistema_operacional, ip, loja, data_atual.
-
-users deverá ter as seguintes colunas respectivamente.
-- id, login, password, role.
-
-🖥 Clone ou baixe o repositório.
-
-https://github.com/JaoFormentini/TechWatch.git (Para o BACKEND)
-
-Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/BackEND/src/main/java/com/facimp/projetoPooJava/ProjetoPooJavaApplication.java e executar o arquivo em algum gerenciador (VScode ou intelliJ). Apartir dai, o BACKEND ja irá funcionar, a API vai startar, e utilizar a porta 8080.
-
-Para a utilizaçao de qualquer método, deverá ser feito o cadastro de usuario e a autenticaçao de login, utilizando os devidos ENDPOINTS.
-
 🎲 Rodando o Front End (servidor)
 
 🖥 Clone ou baixe o repositório.
