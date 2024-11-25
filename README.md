@@ -68,7 +68,7 @@ users deverá ter as seguintes colunas respectivamente.
 
 https://github.com/JaoFormentini/TechWatch.git (Para o BACKEND)
 
-Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/BackEND/src/main/java/com/facimp/projetoPooJava/ProjetoPooJavaApplication.java e executar o arquivo em algum gerenciador (VScode ou intelliJ). Apartir dai, o BACKEND ja irá funcionar, a API vai startar, e utilizar a porta 8080.
+Apos baixar ou clonar, basta ir em TechWatch/BackEND/src/main/java/com/facimp/projetoPooJava/ProjetoPooJavaApplication.java e executar o arquivo em algum gerenciador (VScode ou intelliJ). Apartir dai, o BACKEND ja irá funcionar, a API vai startar, e utilizar a porta 8080.
 
 Para a utilizaçao de qualquer método, deverá ser feito o cadastro de usuario e a autenticaçao de login, utilizando os devidos ENDPOINTS.
 
@@ -78,7 +78,7 @@ Para a utilizaçao de qualquer método, deverá ser feito o cadastro de usuario 
 
 https://github.com/JaoFormentini/TechWatch.git (Para o FRONTEND)
 
-Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/FrontEND/ e executar o comando. 
+Apos baixar ou clonar, basta ir em TechWatch/FrontEND/ e executar o comando. 
 
 ```bash
 $ npm install -D vite
