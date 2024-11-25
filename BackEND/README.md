@@ -4,39 +4,51 @@ TechWatch é um programa criado para gerenciar e monitorar computadores em uma r
 
 As tecnologias utilizadas foram:
 
-- Java
+- **Java**
 
 Utilizado para inserir os dados dos computadores no banco de dados (programa feito externamente e inserido manualmente em todos os computadores). Também utilizado na API em Spring, onde todo o BackEnd da API foi desenvolvido em Java, utilizando as tecnologias do Spring.
 
-- Spring
+- **Spring**
+
 Utilizado no BackEnd em conjunto com Maven, e suas dependências, como JPA, JDBC e Spring Web.
 
-- Maven
+- **Maven**
+
 Utilizado no BackEnd em conjunto com o Spring e o Java para a criação da API e suas propriedades.
 
-- AWS - EC2
+- **AWS - EC2**
+ 
 Utilizado para instalação e configuração de uma máquina virtual onde seria configurado o banco de dados. Isso é necessário para possibilitar o acesso externo de todas as lojas e da matriz, sem a mudança constante de IP público dos provedores. No entanto, também pode ser utilizado um banco de dados local, se a configuração de rede for com IP fixo.
 
-- MySQL
+- **MySQL**
+
 Utilizado dentro da VM na EC2 para receber as conexões e dados dos computadores e da API.
 
-- JDBC
+- **JDBC**
+
 Dependência do Spring utilizada para configuração da API e suas propriedades.
 
-- JPA
+- **JPA**
+
 Dependência do Spring utilizada para configuração da API e suas propriedades.
 
-- JWT Security
+- **JWT Security**
+
 Dependência do Spring utilizada para fazer a configuração de autenticação de usuário e senha com token.
 
-- React
-Utilizado para a criação do FrontEnd e estilização da página.
+- **React**
 
-- Vite
+- Utilizado para a criação do FrontEnd e estilização da página.
+
+- **Vite**
+
 Utilizado para a criação do FrontEnd e suas configurações.
 
-- JavaScript, Html, Css
+- **JavaScript, Html, Css**
+
 Utilizados para aplicar a lógica necessária no FrontEnd, criando e estilizando a página com todas as suas propriedades.
+
+---
 
 ## 🚀 Pré-requisitos
 
