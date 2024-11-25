@@ -76,11 +76,15 @@ A tabela **computadores** deve ter as seguintes colunas:
 - loja
 - data_atual
 
+**Arquivo DDL para gerar automático** --> TechWatch/teste_computador.sql
+
 A tabela **users** deve ter as seguintes colunas:
 - id
 - login
 - password
 - role
+
+**Arquivo DDL para gerar automático** --> TechWatch/teste_users.sql
 
 ## 🖥 Clone ou baixe o repositório
 
