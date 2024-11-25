@@ -38,7 +38,7 @@ Dependência do Spring utilizada para fazer a configuração de autenticação d
 
 - **React**
 
-- Utilizado para a criação do FrontEnd e estilização da página.
+Utilizado para a criação do FrontEnd e estilização da página.
 
 - **Vite**
 
