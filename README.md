@@ -97,20 +97,20 @@ Apartir dai, o FrontEND ja irá funcionar, a API vai startar, e utilizar a porta
 
 🌟 Funcionalidades
 
-Executa uma API de monitoramento e checagem de computadores em um banco de dados.
+- Executa uma API de monitoramento e checagem de computadores em um banco de dados.
 
-Mostra todos os computadores no banco de dados.
+- Mostra todos os computadores no banco de dados.
 
-Mostra um computador específico utilizando o ID como parametro.
+- Mostra um computador específico utilizando o ID como parametro.
 
-Mostra todos os computadores de uma loja especifica (ex loja05)
+- Mostra todos os computadores de uma loja especifica (ex loja05)
 
-Adiciona um computador manualmente no banco de dados.
+- Adiciona um computador manualmente no banco de dados.
 
-Deleta um computador manualmente no banco de dados.
+- Deleta um computador manualmente no banco de dados.
 
-Edita um computador manualmente no banco de dados.
+- Edita um computador manualmente no banco de dados.
 
 Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
 
-SEGUE LINK DA DOCUMENTAÇAO NO POSTMAM --> https://documenter.getpostman.com/view/38631377/2sAYBUDY8x
+##SEGUE LINK DA DOCUMENTAÇAO NO POSTMAM --> https://documenter.getpostman.com/view/38631377/2sAYBUDY8x
