@@ -60,7 +60,7 @@ Utilizado para aplicar a logica necessaria no FrontEnd. Criaçao e Estilização
 
 https://github.com/JaoFormentini/TechWatch.git (Para o FRONTEND)
 
-Apos baixar ou clonar, basta ir em ProjetoJavaPooAPI/FrontEND/ e executar o comando. 
+Apos baixar ou clonar, basta ir em TechWatch/FrontEND/ e executar o comando. 
 
 ```bash
 $ npm install -D vite
