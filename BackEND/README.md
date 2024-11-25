@@ -91,7 +91,7 @@ Para utilizar qualquer método, será necessário realizar o cadastro de usuári
 
 ---
 
-🌟 Funcionalidades
+## 🌟 Funcionalidades
 
 - Executa uma API de monitoramento e checagem de computadores em um banco de dados.
 
