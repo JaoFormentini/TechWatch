@@ -107,7 +107,7 @@ npm run dev
 Apartir dai, o FrontEND ja irá funcionar, a API vai startar, e utilizar a porta 5173.
 
 
-🌟 Funcionalidades
+## 🌟 Funcionalidades
 
 - Executa uma API de monitoramento e checagem de computadores em um banco de dados.
 
