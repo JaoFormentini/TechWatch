@@ -2,6 +2,22 @@
 
 TechWatch é um programa criado para gerenciar e monitorar computadores em uma rede de lojas, verificando seus nomes, IPs, endereços MAC, sistemas operacionais, quantidade de memória RAM, data de instalação do sistema e a data da última execução do programa. Com essas informações, é possível gerenciar e melhorar a forma como a troca e manutenção desses equipamentos específicos são realizadas, permitindo que o departamento responsável consiga executar suas funções com maior precisão e agilidade. Este programa foi projetado para funcionar na estrutura de uma rede de lojas específica, mas pode ser adaptado para qualquer empresa.
 
+## 🌟 Funcionalidades
+
+- Executa uma API de monitoramento e checagem de computadores em um banco de dados.
+
+- Mostra todos os computadores no banco de dados.
+
+- Mostra um computador específico utilizando o ID como parametro.
+
+- Mostra todos os computadores de uma loja especifica (ex loja05)
+
+- Adiciona um computador manualmente no banco de dados.
+
+- Deleta um computador manualmente no banco de dados.
+
+- Edita um computador manualmente no banco de dados.
+
 As tecnologias utilizadas foram:
 
 - **Java**
@@ -94,22 +110,6 @@ A tabela **users** deve ter as seguintes colunas:
 Para utilizar qualquer método, será necessário realizar o cadastro de usuário e a autenticação de login utilizando os devidos **ENDPOINTS**.
 
 ---
-
-## 🌟 Funcionalidades
-
-- Executa uma API de monitoramento e checagem de computadores em um banco de dados.
-
-- Mostra todos os computadores no banco de dados.
-
-- Mostra um computador específico utilizando o ID como parametro.
-
-- Mostra todos os computadores de uma loja especifica (ex loja05)
-
-- Adiciona um computador manualmente no banco de dados.
-
-- Deleta um computador manualmente no banco de dados.
-
-- Edita um computador manualmente no banco de dados.
 
 Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
 
