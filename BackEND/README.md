@@ -17,6 +17,10 @@ TechWatch é um programa criado para gerenciar e monitorar computadores em uma r
 - Deleta um computador manualmente no banco de dados.
 
 - Edita um computador manualmente no banco de dados.
+  
+- Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
+
+---
 
 As tecnologias utilizadas foram:
 
