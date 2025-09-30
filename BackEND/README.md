@@ -115,6 +115,4 @@ Para utilizar qualquer método, será necessário realizar o cadastro de usuári
 
 ---
 
-Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
-
 ##SEGUE LINK DA DOCUMENTAÇAO NO POSTMAM --> https://documenter.getpostman.com/view/38631377/2sAYBUDY8x
