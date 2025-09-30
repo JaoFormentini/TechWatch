@@ -17,6 +17,10 @@ TechWatch é um programa criado para gerenciar e monitorar computadores em uma r
 - Deleta um computador manualmente no banco de dados.
 
 - Edita um computador manualmente no banco de dados.
+  
+- Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
+
+---
 
 As tecnologias utilizadas foram:
 
@@ -127,7 +131,5 @@ npm run dev
 Apartir dai, o FrontEND ja irá funcionar, a API vai startar, e utilizar a porta 5173.
 
 ---
-
-Vale lembrar que todas as funçoes exceto "Mostrar" devem ser utilizadas por um usuario "ADMIN".
 
 ##SEGUE LINK DA DOCUMENTAÇAO NO POSTMAM --> https://documenter.getpostman.com/view/38631377/2sAYBUDY8x
